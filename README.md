@@ -1,5 +1,5 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# COLLECT THE LILIES WITH YOUR BOAT
 
-DO NOT LEAVE IT LIKE THIS!!!
+How many lilies can you collect? 
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+
